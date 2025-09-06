@@ -1,0 +1,8 @@
+{
+  "tools": {
+    "file_editor": {
+      "command": "python file_editor.py",
+      "core": ["ReadFileTool", "WriteFileTool", "GlobTool", "ShellTool(ls)"]
+    }
+  }
+}
